@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alert Demo</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+</resources>

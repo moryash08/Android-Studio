@@ -1,0 +1,2 @@
+rootProject.name='Process JSON'
+include ':app'
